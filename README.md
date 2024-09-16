@@ -9,4 +9,4 @@ This project is based on various files:
    - **"Deep Learning.npy"**: Handles all tasks related to Deep Learning.
    - **"Modulo_OnlineEnlace_TFG.npy"**: Responsible for managing TCP connections and loading the model.
 
-3) **AndroidStudio**: Mobile application.   
+3) **AndroidStudio**: Mobile application: "TFG_Irene_wifi_Beta.zip".   
