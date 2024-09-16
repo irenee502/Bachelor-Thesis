@@ -6,8 +6,8 @@ This project is based on various files:
 2) **Python**:
    - **"ObtenerDatos.npy"**: Script for storing data in different files according to their respective categories.
    - **"Machine Learning.npy"**: Contains everything related to Machine Learning. You can select the data source to compile, either from Kaggle or custom data.
-   - **"Deep Learning.npy"**: Handles all tasks related to Deep Learning.
-   - **"Modulo_OnlineEnlace_TFG.npy"**: Responsible for managing TCP connections and loading the model.para ejecutar este script se necesita el modelo entrenado "model.pt" que se puede descargar aqui. 
+   - **"Deep Learning.npy"**: Handles all tasks related to Deep Learning. 
+   - **"Modulo_OnlineEnlace_TFG.npy"**: Responsible for managing TCP connections and loading the model. To run this script, the trained model "model.pt" is required, which can be downloaded here: https://drive.google.com/file/d/1m0huxRkdueqa-inIJ0fhuh0sdt0biVSv/view?usp=drive_link
 
 3) **AndroidStudio**: Mobile application: The project of Android can be download here:
                 " https://drive.google.com/file/d/1AevtfKc03WWikbh8AYNcpfBGq-SikqZA/view?usp=drive_link
