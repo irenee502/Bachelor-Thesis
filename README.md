@@ -1,4 +1,4 @@
-# Bachelor-Thesis TFG
+# Bachelor-Thesis (TFG)
 This project is based on various files:
 
 1) **Arduino: "moduloOnlineTFG_FINAL.ino"**: Responsible for controlling motors/LEDs and handling TCP communication.
